@@ -1,7 +1,7 @@
 fugu-pass
 =========
 
-Google App script for storing passwords in a spreadsheet encrypted with blowfish (from [Barnes Storming](http://barnes-storming.blogspot.co.nz/2011/08/encrypting-data-in-google-documents.html) using PBKDF2
+Google App script for storing passwords in a spreadsheet encrypted with blowfish (from [Barnes Storming](http://barnes-storming.blogspot.co.nz/2011/08/encrypting-data-in-google-documents.html)) using PBKDF2
 
 The script requires a Google account and all information is stored within your account's properties and a spreadsheet called 'EncryptedPasswords'.
 
